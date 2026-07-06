@@ -9,8 +9,8 @@
 - [x] Compute price per square meter.
 - [x] Compute straight-line distance from central Amsterdam.
 - [x] Surface neighborhood and floorplan URLs.
-- [ ] Run the proof of concept against live Funda data.
-- [ ] Push the repo to GitHub.
+- [x] Run the proof of concept against live Funda data.
+- [x] Push the repo to GitHub.
 
 ## Search Workflow
 
